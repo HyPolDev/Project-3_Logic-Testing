@@ -1,4 +1,4 @@
-#JS logic Project💻
+# JS logic Project💻
 
 ¡Welcome all to Pixel Tv Project! This is the Week Two Project and second challenge at GeeksHubs Academy, consisting in a interactive tv with diferent channels, volume, and more.
 
